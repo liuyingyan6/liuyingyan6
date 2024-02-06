@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi There🫶
+Welcome to my page!
+I'm Yan, a Software Engineering student at Cardiff Uni.
 
 <!--
 **liuyingyan6/liuyingyan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
