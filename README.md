@@ -11,6 +11,7 @@
 - 💬 Ask me about Java Spring Boot, Vue
 - 😄 Pronouns: She/Her/Hers
 - 🎈 Hobbies: Cycling, Ultimate Frisbee, Swimming...
+- 🪄 Personal Goal for 2024: Securing a placement job in Tech industry!
 
 <br>
 
