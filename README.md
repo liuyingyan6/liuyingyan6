@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="140" src="https://avatars.githubusercontent.com/u/159139215?s=400&u=fdc9ff27bf9462c23cccededdec3ef988c9bbd5c&v=4">
+  <img width="222" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHprdTlkNHlhemkzdmJwdW8xcWFqcDFoYXlxMzczbjIzNnhha3ZjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif">
   <h3 align="center">Hi There🫶Welcome to my page</h3>
-  <p align="center">I'm Yan, currently a MSc Software Engineering Student at Cardiff Uni🎓</p>
+  <p align="center">I'm Yan, currently a MSc Software Engineering student at Cardiff Uni🎓</p>
 </p>
 
 ### About Me
